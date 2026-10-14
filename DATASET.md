@@ -13,9 +13,12 @@ The dataset documentation will cover its source, structure, observation period, 
 
 - **Asset:** Bitcoin (BTC)
 - **Trading pair:** BTC-USD
-- **Proposed source:** Yahoo Finance
-- **Data frequency:** Daily, subject to verification
-- **Observation period:** To be confirmed from the original dataset
+- **Source:** Yahoo Finance historical market data
+- **Data frequency:** Daily
+- **Start date:** January 1, 2020
+- **End date:** May 10, 2026
+- **Number of observations:** 2,322 daily records
+- **Number of columns:** 7
 
 Source: https://finance.yahoo.com/quote/BTC-USD/history/
 
