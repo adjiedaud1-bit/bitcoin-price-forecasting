@@ -76,3 +76,27 @@ Information Systems Student
 Universitas Nusa Putra, Indonesia
 
 GitHub: https://github.com/adjiedaud1-bit
+
+
+## Project Documentation
+
+Explore the main documents and analysis files in this repository.
+
+- [Dataset Documentation](DATASET.md)
+- [Data Quality Assessment Report](DATA_QUALITY_REPORT.md)
+- [Exploratory Data Analysis (EDA) Report](EDA_REPORT.md)
+
+## Historical Bitcoin Price Visualization
+
+The following chart presents the historical Bitcoin closing price based on the selected dataset covering January 1, 2020, through May 10, 2026.
+
+![Bitcoin Historical Closing Price](bitcoin_historical_closing_price.png)
+
+## Project Workflow
+
+1. Historical dataset documentation.
+2. Data quality assessment.
+3. Exploratory data analysis and visualization.
+4. Forecasting methodology and model evaluation.
+
+**Current Status:** Research documentation and data analysis in progress.
