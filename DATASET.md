@@ -1,0 +1,63 @@
+# Bitcoin Historical Dataset Documentation
+
+**Project:** Bitcoin Price Forecasting & Data Analysis  
+**Author:** Muhammad Adjie Daud
+
+## 1. Dataset Overview
+
+This document describes the historical Bitcoin (BTC) price data intended for analysis and time-series forecasting.
+
+The dataset documentation will cover its source, structure, observation period, data quality, and preprocessing procedures.
+
+## 2. Data Source
+
+- **Asset:** Bitcoin (BTC)
+- **Trading pair:** BTC-USD
+- **Proposed source:** Yahoo Finance
+- **Data frequency:** Daily, subject to verification
+- **Observation period:** To be confirmed from the original dataset
+
+Source: https://finance.yahoo.com/quote/BTC-USD/history/
+
+## 3. Dataset Structure
+
+The original dataset may contain the following columns:
+
+| Column | Description |
+|---|---|
+| Date | Observation date |
+| Open | Opening price in USD |
+| High | Highest price in USD |
+| Low | Lowest price in USD |
+| Close | Closing price in USD |
+| Adj Close | Adjusted closing price, if available |
+| Volume | Trading volume |
+
+The actual columns will be confirmed by inspecting the original data file.
+
+## 4. Data Quality Checks
+
+The following checks are planned:
+
+- Check for missing values.
+- Identify duplicate records.
+- Verify date formats and chronological order.
+- Inspect invalid or inconsistent numerical values.
+- Confirm the dataset's observation period.
+- Verify the price variable used in the analysis.
+
+## 5. Data Preprocessing
+
+Any data cleaning, filtering, transformation, or normalization will be documented after reviewing the original dataset.
+
+Only procedures actually performed will be reported.
+
+## 6. Limitations
+
+Historical market data describes past observations and does not guarantee future Bitcoin price movements. Data sources, missing observations, and preprocessing choices may affect the analysis.
+
+## 7. Project Status
+
+**Status:** Dataset documentation in progress.
+
+The final observation period, data quality findings, and preprocessing results will be added after the original dataset has been verified.
