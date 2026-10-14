@@ -61,6 +61,8 @@ Historical market data describes past observations and does not guarantee future
 
 ## 7. Project Status
 
-**Status:** Dataset documentation in progress.
+**Status:** Dataset selected; data analysis and research documentation in progress.
 
-The final observation period, data quality findings, and preprocessing results will be added after the original dataset has been verified.
+The selected dataset contains 2,322 daily Bitcoin price observations covering January 1, 2020, through May 10, 2026.
+
+Data quality findings, preprocessing procedures, descriptive statistics, visualizations, and forecasting results will be documented based on the inspected dataset and verified analytical results.
